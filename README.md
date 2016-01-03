@@ -1,4 +1,7 @@
 # TheoDORE_py3
+
+**NOTE: I am in no way affiliated with Felix Plasser, the original creator of TheoDORE. Please see the sourceforge link if you want to contact him.**
+
 Port of TheoDORE (http://theodore-qc.sourceforge.net/) to Python3
 
 Except for this README, all other documents were taken from the original repository on SourceForge.
