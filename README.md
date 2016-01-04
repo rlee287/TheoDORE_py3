@@ -19,4 +19,5 @@ Released under the GNU General Public License
 - [ ] Compile the bin folder into executables and create releases
 - [ ] Copy SourceForge wiki to Github?
 - [ ] Check if openbabel is now called babel, fix accordingly
+- [ ] Remove `readline` dependency in input_options.py
 - [ ] Review files and fix errors created by the `2to3` fixer
