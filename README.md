@@ -1,5 +1,7 @@
 # TheoDORE_py3
 
+**Update: Felix Plasser has informed me that the original Sourceforge repo is now updated to support Python 3, so this repo has been archived.**
+
 **NOTE: I am in no way affiliated with Felix Plasser, the original creator of TheoDORE. Please see the sourceforge link if you want to contact him.**
 
 Port of TheoDORE (http://theodore-qc.sourceforge.net/) to Python3
